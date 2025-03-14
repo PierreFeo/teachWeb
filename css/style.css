@@ -1,8 +1,20 @@
-body{
-    background-color: khaki;
+
+
+h1{
+    text-align: center;
+    font-size: medium;
 }
 
 h2{
     color: brown;
-    
+    text-align: center;
+    font-size: medium;
+}
+
+p{
+    font-size: small;
+}
+
+.trueStories{
+    font-style: italic;
 }
