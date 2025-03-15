@@ -15,6 +15,9 @@ p{
     font-size: small;
 }
 
-.trueStories{
+.trueStories, .boa{
+    font-style: italic;
+}
+.frigthen{
     font-style: italic;
 }
